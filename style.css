@@ -1,0 +1,24 @@
+.h2{
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.container {
+    border: 3px purple solid;
+}
+
+.row-justify-content-evenly {
+    columns: 75px;
+}
+
+.img {
+    height: 150px;
+    width: 100px;
+    margin-left: 10px;
+}
+
+.h2 {
+font-family: Orbitron;
+}
